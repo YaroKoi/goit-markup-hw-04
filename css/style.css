@@ -237,11 +237,11 @@ body{
 
 /* Team */
 
-.team-social-icon{
+.team-list-social-icon{
         display: flex;
         justify-content: center;
         gap: 24px;
-        
+
 }
 
 .team-container{
