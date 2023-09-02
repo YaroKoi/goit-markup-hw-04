@@ -434,4 +434,22 @@ body{
 
 .footer .container{
         display: flex;
+        align-items: baseline;
+}
+
+.logotype-container{
+        margin-right: 120px;
+}
+
+.social-media-text{
+        font-weight: 500px;
+        line-height: 1.5px;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
+        margin-bottom: 16px;
+}
+
+.social-media-item{
+        display: flex;
+        gap: 16px;
 }
