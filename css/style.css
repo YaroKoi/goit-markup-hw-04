@@ -470,8 +470,8 @@ body{
         justify-content: center;
 }
 
-.social-media-item:hover,
-.social-media-item:focus{
+.social-media-link:hover,
+.social-media-link:focus{
         background-color: #31d0aa;
 }
 
