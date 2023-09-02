@@ -1,9 +1,5 @@
 /* Body */
 
-body{
-        width: 1440px;
-}
-
 h1,h2,h3,h4,p{
         margin-top: 0;
         margin-bottom: 0;
@@ -193,6 +189,16 @@ body{
 .feature-list{
         display: flex;
         gap: 24px;
+}
+
+.feature-list-container{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        height: 112px;
+        background-color: #f4f4fd;
+        border-radius: 4px;
+        margin-bottom: 8px;
 }
 
 .feature-item{
