@@ -191,6 +191,16 @@ body{
         gap: 24px;
 }
 
+.feature-list-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #f4f4fd;
+        height: 112px;
+        border-radius: 4px;
+        margin-bottom: 8px;
+}
+
 .feature-item{
     list-style-type: none;
     width: 264px;
