@@ -31,6 +31,16 @@ body{
 
 /* Header */
 
+*::after{
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: -1px;
+        height: 4px;
+        background-color: #404bbf;
+        border-radius: 2px;
+}
+
 .header{
         border-bottom: 1px solid #e7e9fc;
         padding-bottom: 24px;
