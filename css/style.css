@@ -432,8 +432,7 @@ body{
         color: #F4F4FD
 }
 
-
-.container .footer{
+.footer .container{
         display: flex;
         align-items: baseline;
 }
