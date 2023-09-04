@@ -142,6 +142,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin: 0 auto;
 }
 .hero-image-text{
         font-size: 56px;
@@ -189,6 +190,7 @@ body{
         height: 112px;
         border-radius: 4px;
         margin-bottom: 8px;
+        border: 1px solid #8E8F99;
 }
 
 .feature{
