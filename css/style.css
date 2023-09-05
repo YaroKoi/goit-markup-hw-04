@@ -116,6 +116,11 @@ body{
         text-decoration: none;
 }
 
+.social-link:hover,
+.social-link:focus{
+        color: #404BBF
+}
+
 .social-item{
         list-style-type: none;
 }
